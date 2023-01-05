@@ -8,8 +8,8 @@ This folder contains a sql database system designed around business interactions
 - drop_tables.sql
 - database_finalproj.c
 
-## Project_Conceptual_Design.pdf
-stuff and things
+### Project_Conceptual_Design.pdf
+- stuff and things
 
 ### Project_Logical_Design.pdf
-stuff and things
+- stuff and things
