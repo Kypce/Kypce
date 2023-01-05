@@ -7,3 +7,9 @@ This folder contains a sql database system designed around business interactions
 - insertion.sql
 - drop_tables.sql
 - database_finalproj.c
+
+## Project_Conceptual_Design.pdf
+stuff and things
+
+### Project_Logical_Design.pdf
+stuff and things
