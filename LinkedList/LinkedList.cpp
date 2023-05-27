@@ -205,6 +205,7 @@ void readToList(string file, List &L) {
 int main() {
     List LL;
     string fileName = "People.txt";
+    
     int choice = -1;
     int numInput;
     char charInput;
