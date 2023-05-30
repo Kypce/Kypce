@@ -184,7 +184,7 @@ void readToList(string file, List &L) {
         exit(1);
     }
 
-    while(getline(fin, line)) {
+    while(!fin.eof()) {
         int tmp_ssn, tmp_bdate;
         string tmp_fname, tmp_lname;
         int tmp_zip;
