@@ -173,7 +173,6 @@ class List {
 };
 
 // Takes an input file and will read and input contents into linked list
-// TODO: FIX PROGRAM NOT GETTING FIRST LINE BECAUSE OF GETLINE
 void readToList(string file, List &L) {
     ifstream fin;
     string line;
