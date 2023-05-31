@@ -199,6 +199,8 @@ void readToList(string file, List &L) {
 
         L.addNode(p);
     }
+    
+    fin.close();
 }
 
 int main() {
