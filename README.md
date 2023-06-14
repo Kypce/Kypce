@@ -1,7 +1,16 @@
 # Welcome! :D
 
+## Kypce
+- This reposistory contains miscellaneous projects I have done.
+
+## Data-Structures
+- This repository contains all things for programming data strucutures.
+
+## Algorithms
+- This repository contains all things for programming algorithms.
+
 ## Hand-View-Controller
-- This was a senior group project where the work was split between different people.
+- This repository was a senior group project where the work was split between different people.
 - Our project was to make a LiDAR Aided Vision Device that would give haptic feedback to a visually-impaired user to tell them where object were in the environment in front of them.
 
 - My work can be found in Hand-View-Controller > src > main.cpp
