@@ -1,9 +1,6 @@
-# Hello :D
-## Personal Repository
+# Welcome! :D
 
-This repository is for any projects!
-
-# Hand-View-Controller
+## Hand-View-Controller
 - This was a senior group project where the work was split between different people.
 - Our project was to make a LiDAR Aided Vision Device that would give haptic feedback to a visually-impaired user to tell them where object were in the environment in front of them.
 
