@@ -1,8 +1,5 @@
 # Welcome! :D
 
-## Kypce
-- This reposistory contains miscellaneous projects I have done.
-
 ## Data-Structures
 - This repository contains all things for programming data strucutures.
 
@@ -16,3 +13,6 @@
 - My work can be found in Hand-View-Controller > src > main.cpp
   - This code was resonsible for running our motors on our project using an arduino board and the accellstepper library
   - NOTE: Many of the commits contain a different user that was in the group. I often was using their computer during coding sessions so their name appears for the commits.
+
+## Miscellaneous
+- This reposistory contains miscellaneous projects I have done.
