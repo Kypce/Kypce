@@ -23,3 +23,8 @@
   - Business Database: SQL database system designed for internal business interactions.
   - Mockup Bus App: An in-depth mockup design of a bus tracking app that applies software architecture and UI/UX principles.
   - OS Heap: Operating system heap made in BCPL to demonstrate how segmented memory organizes data chunks and recycles chunks.
+
+### Systems-Programming
+- This repository contains projects regarding subjects in systems programming.
+  - Custom Stdio: Implementation of the C stdio library made in C.
+  - Custom Unix LS: Implementation of the Unix LS command made in C.
