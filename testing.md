@@ -1,5 +1,0 @@
-- [ ] here is a list
-- [ ] a checklist to be exact
-- [ ] its got things to do
-- [ ] on it
-- [ ] finally this!
